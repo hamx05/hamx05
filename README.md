@@ -20,14 +20,6 @@
 
 <div align="center">
 
-| Languages        | Tools & Frameworks      | Core Concepts                                |
-|------------------|--------------------------|-----------------------------------------------|
-| `C`, `C++`, `Python`, `HTML/CSS`, `JavaScript`, `LUA` | `Git`, `VS Code`, `Linux`, `Socket Programming`, `FTP` | `OOP`, `File I/O`, `Cryptography`, `Networking`, `OS`, `DS`, `SE`, `Socket Programming` |
-
-</div>
-
-<div align="center">
-
 | Languages                         | Tools & Frameworks                       | Core Concepts                                   |
 |----------------------------------|----------------------------------------|------------------------------------------------|
 | `C`, `C++`, `Python`, `HTML/CSS`, `JavaScript`, `LUA` | `Git`, `VS Code`, `Linux`, `Socket Programming`, `FTP`, `SQLite` | `OOP`, `File I/O`, `Cryptography`, `Networking`, `OS`, `DS`, `SE`, `Socket Programming`, `Database` |
