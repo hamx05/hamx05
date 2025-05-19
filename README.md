@@ -38,7 +38,7 @@
 | 🧾 [**Police Desk Manager**](https://github.com/hamx05/Police-Desk-Manager)     | C++ CRUD system for FIRs and crime reports                            |
 | 🌳 [**In-Memory DBMS**](https://github.com/hamx05/In-memory-DBMS-using-Trees)   | Mini DBMS using BST, AVL, and B-Trees                                |
 
-> 🔍 More projects: [github.com/hamx05](https://github.com/hamx05)
+> 🔍 More projects: [![GitHub Repos](https://img.shields.io/badge/View-Repositories-blue?style=for-the-badge&logo=github)](https://github.com/hamx05?tab=repositories)
 
 ---
 
