@@ -47,8 +47,9 @@
 <div align="center">
 
 <!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=hamx05&style=flat-square&color=blue" alt="Profile views" />
-<br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamx05&style=flat-square&color=161B22" alt="Profile Views Count" />
+</p>
 
 <!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=hamx05&theme=tokyonight&margin-w=10&no-frame=true" />
