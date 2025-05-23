@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Hammad</h1>
 <p align="center">
   <b>Cybersecurity Undergraduate · C++ Developer · Python Enthusiast</b><br>
-  📍 Karachi, Pakistan &nbsp;|&nbsp; 🌐 <a href="https://github.com/hamx05">github.com/hamx05</a>
+  📍 Karachi, Pakistan &nbsp;|&nbsp; 🌐 <a href="https://github.com/hamx05">github.com/hamx05</a> &nbsp;|&nbsp; 📄 <a href="https://flowcv.com/resume/2sfp4ifmnsst">Resume</a>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 BS in **Cybersecurity** — FAST NUCES, Karachi (Expected 2027)  
-- 🔐 Focused on **Cybersecurity**, **System Programming**, and **Networking**  
+- 🔐 Focused on **Cybersecurity**, **Networking** and starting with **Penetration Testing.** 
 - 🛠️ Passionate about building CLI tools, mini-simulations, and beginner full-stack apps  
 - 📈 Actively enhancing my technical skills and exploring new areas in cybersecurity and programming  
 
@@ -33,7 +33,7 @@
 |------------------------------------------|---------------------------------------------------------|
 | 🍽️ [**The Recipe Spot**](https://github.com/hamx05/The-Recipe-Spot)           | Blog-style recipe website with likes, comments, and user interaction     |
 | 🔐 [**PyPassManager**](https://github.com/hamx05/PyPassManager)                 | GUI password manager with AES encryption                               |
-| 💬 [**Chat Portal With FTP**](https://github.com/hamx05/Chat-Portal-With-FTP)           | Terminal-based messaging app with real-time file sharing               |
+| 💬 [**Network Chat Portal With FTP**](https://github.com/hamx05/Chat-Portal-With-FTP)           | Terminal-based messaging app with real-time file sharing               |
 | 🏦 [**ATM Nexus**](https://github.com/hamx05/ATM-Nexus)                         | Console ATM simulator with full banking functionality                 |
 | 🧾 [**Police Desk Manager**](https://github.com/hamx05/Police-Desk-Manager)     | C++ CRUD system for FIRs and crime reports                            |
 | 🌳 [**In-Memory DBMS**](https://github.com/hamx05/In-memory-DBMS-using-Trees)   | Mini DBMS using BST, AVL, and B-Trees                                |
@@ -74,18 +74,19 @@
 
 <p align="center">
   <a href="https://github.com/hamx05">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" style="transform: scale(1.2);" />
   </a> &nbsp;
   <a href="https://linkedin.com/in/hamx05">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="transform: scale(1.2);" />
   </a> &nbsp;
   <a href="https://leetcode.com/hamx05">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" style="transform: scale(1.2);" />
   </a> &nbsp;
   <a href="mailto:hammad968@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="transform: scale(1.2);" />
   </a>
 </p>
+
 
 ---
 
