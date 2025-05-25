@@ -51,21 +51,19 @@
   <img src="https://komarev.com/ghpvc/?username=hamx05&style=flat-square&color=161B22" alt="Profile Views Count" />
 </p>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=hamx05&theme=tokyonight&margin-w=10&no-frame=true" />
-<br><br>
+<div align="center"> <!-- Stats Container --> <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
 
 <!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamx05&theme=tokyonight&hide_border=true" />
-<br><br>
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=hamx05&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamx05&theme=tokyonight&hide_border=true" height="200px"/>
 <br>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamx05&layout=compact&theme=tokyonight&hide_border=true" />
+<div style="min-width: 350px; height: 200px;">
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=hamx05&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" height="200px" />
 
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamx05&layout=compact&theme=tokyonight&hide_border=true" height="200px"/>
 </div>
 
 ---
