@@ -65,6 +65,8 @@
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamx05&layout=compact&theme=tokyonight&hide_border=true" height="200px"/>
 </div>
+</div>
+</div>
 
 ---
 
