@@ -81,10 +81,10 @@
   </a> &nbsp;
   <a href="https://leetcode.com/hamx05" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+  </a> &nbsp;
   <a href="mailto:hammad968@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a> &nbsp;
+  </a>
 </p>
 
 
